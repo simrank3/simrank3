@@ -4,7 +4,7 @@
 
 **My name is Simran Kaur** and I am a data scientist with a consulting background in banking and a recent Flatiron School graduate. With a background in risk management and metrics reporting, I have consulted for three different top-tier financial institutions where I have honed my skills in identifying and mitigating operational risk incidents. I have experience in creating and maintaining case logs, coordinating with various teams, developing metrics and reporting, and presenting findings to senior management.
 
-I became a data scientist because I enjoy problem solving. Data science allows me to use data to solve complex problems and to me, that is very rewarding. 
+I became a data scientist because I am a storyteller. I also enjoy puzzles. Data science allows me to use data to solve complex problems, all while telling a story.
 
 ### What I'm up to:
 
