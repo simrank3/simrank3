@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-**My name is Simran.** I am a seasoned financial services Consultant with data science expertise. With a background in project management and metrics reporting, I have completed projects at three differen tier-one financial institutions where I have honed my data analysis skills. I have experience in creating and maintaining case logs, coordinating with various teams, developing metrics and reporting, and presenting findings to senior management.
+**My name is Simran.** With over five years of experience in financial services, I excel in managing projects and analyzing complex data. I have completed four projects at three different tier-one financial institutions where I have honed my data analysis skills. With a strong ability to collaborate with cross-functional teams, I am adept at dissecting intricate problems with great attention to detail. I have developed an expertise in Python and Tableau so that I can extract valuable insights to facilitate data-driven decisions. 
 
 I became a data scientist because I am a storyteller. I enjoy puzzles. Data science allows me to use data to solve complex problems, all while telling a story.
 
